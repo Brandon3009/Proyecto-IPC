@@ -1,0 +1,4 @@
+IPC,Introduccion a la programacion de computadoras,200,15:05 - 16:00,1,4,Victor
+Quimica Genearl 1,Introduccion al mundo de la quimica,200,07:00 - 09:30,2,4,Cler
+Deportes,Mejoramiento de las condiciones Fisicas,175,07:00 - 09:30,3,4,Mendez
+Social Humanistica,Introduccion a la historia de Guatemala,175,10:35 - 11:30,4,4,Maldonado
